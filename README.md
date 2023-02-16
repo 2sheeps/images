@@ -1,2 +1,2 @@
 # 2sheeps-images
-my images
+My picture warehouse.
